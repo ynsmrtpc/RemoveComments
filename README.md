@@ -1,3 +1,3 @@
 # RemoveComments
 
-That program delete your <strong>Comments</strong> in your code.
+This program deletes your <b>Comments</b> in your code and saves it as <i>CommentlessCourse.java</i>.
